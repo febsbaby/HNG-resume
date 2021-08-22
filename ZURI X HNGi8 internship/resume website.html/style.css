@@ -1,0 +1,73 @@
+head{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+h1{
+    font-style: italic;
+    font: x-large;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+
+}
+body{
+    font-style: italic;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15px;
+    background-color: rosybrown; 
+}
+.image1{
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    }
+.title
+      {
+      width:769px; 
+      height: 65px;
+     margin:15px auto;
+      }
+.resume-profile{
+    padding: 20px;
+    background-color: royalblue;
+    border-radius: 30px;
+}
+    
+.right_side 
+     {
+     float:right;
+     width:580px;
+     color: #000000;
+     background-color:peachpuff;
+     margin: 20px 0px 20px 0px;
+     padding:0px 0px 25px 15px;
+     border:1px solid #CCCCCC;
+     }
+
+.resume-bottom{
+    text-align:left;
+}
+.container{
+    height: 50px;
+    width: 10px;
+    display:flex;
+}
+
+
+.content{
+    display: flex;
+    padding: 16px;
+    margin: 16px;
+}
+
+
+.resume-wrapper .resume-item{
+    padding: 20px;
+    border-bottom: 1px;
+    line-height: 1.5;
+
+}
+.image2{
+    height:30px;
+    width: 120px;
+}
